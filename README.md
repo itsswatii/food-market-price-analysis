@@ -46,5 +46,11 @@ python notebooks/food_access_analysis.py
 ```
 
 ## Results & Insights
-> To be updated after analysis completion.
+- **Total Census Tracts Analyzed:** 72,864 across 3,141 counties and 51 states
+- **Total Population Covered:** 308M+
+- **Overall Avg Poverty Rate:** 16.57% — Urban (17.38%) vs Rural (14.03%)
+- **Median Family Income:** Urban ($69,354) vs Rural ($61,439) — 11% disparity
+- **Total LILA Tracts:** 9,245 low income & low access tracts identified
+- **Total Low Income Tracts:** 30,870 across the U.S.
+- **County Income Disparity:** 636% between highest and lowest income counties
 
